@@ -56,7 +56,7 @@ Close-SshSession $s
 
 2) It is written in Programming Language: C#
 
-if you are planning to modify or rebuild the repo: 
+if you are planning to modify or rebuild the repo present in Source directory:
 
 after building the repository, C60.SshShellPowerShellModule.dll is generated in obj/debug which needs to be copied to for e.g C:\Program 
 
