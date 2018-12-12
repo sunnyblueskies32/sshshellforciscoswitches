@@ -1,0 +1,8 @@
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\bin\Debug\C60.SshShellPowerShellModule.dll
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\bin\Debug\C60.SshShellPowerShellModule.pdb
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\bin\Debug\Renci.SshNet.dll
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\bin\Debug\System.Management.Automation.dll
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\obj\Debug\SshShellPowerShellModule.csproj.CoreCompileInputs.cache
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\obj\Debug\SshShellPowerShellModule.csproj.CopyComplete
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\obj\Debug\C60.SshShellPowerShellModule.dll
+C:\Program Files\WindowsPowerShell\Modules\SshShell\Source\SshShellPowerShellModule\obj\Debug\C60.SshShellPowerShellModule.pdb
