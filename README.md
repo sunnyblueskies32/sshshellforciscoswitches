@@ -48,6 +48,7 @@ if ($s.LastResult -match "does not exist") {
  Send-SshCommand $s "end" -Expect $elevatedPrompt 
   
   Send-SshCommand $s "write mem" -Expect "[OK]" -WaitUnlimitedOn "configuration\.\.\.|Cryptochecksum|copied" 
+
 } 
 
  
